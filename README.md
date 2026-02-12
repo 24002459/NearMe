@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 ### index.html
-```
+```python
 <!doctype html>
 <html lang="en">
   <head>
@@ -65,7 +65,7 @@ Execute the programs and publish them.
 </html>
 ```
 ### murugappa.html
-```
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -133,7 +133,7 @@ Execute the programs and publish them.
 </html>
 ```
 ### pachaiamman.html
-```
+```python
 <!DOCTYPE html>
 <html>
 <head>
@@ -173,7 +173,7 @@ Important festivals celebrated here include celebrations during Aadi, Aavani, Ch
 </html>
 ```
 ### thangal.html
-```
+```python
 <!DOCTYPE html>
 <html>
 <head>
